@@ -1,1 +1,5 @@
-# vitalii-potapov.github.io
+### Главная страница One World Dating
+
+Простой пример верстки главной страницы (бэм, адаптив, кроссбраузерность)
+
+Сайт доступен по ссылке https://vitalii-potapov.github.io

@@ -656,4 +656,36 @@ a {
     height: 301px;
   }
 }
+@media (max-width: 767px) {
+  .footer__country {
+    width: 100%;
+    padding: 23px 15px;
+  }
+  .footer__news-text {
+    display: block;
+    margin-bottom: 15px;
+  }
+  .top__bg {
+    min-height: 440px;
+    object-fit: cover;
+  }
+}
+@media (max-width: 499px) {
+  .top__cards {
+    font-size: 6px;
+  }
+  .top__card:not(:first-child) {
+    margin-left: 5px;
+  }
+  .join-now {
+    overflow: hidden;
+  }
+  .join-now__block {
+    width: 250px;
+    height: 250px;
+  }
+  .mobile-menu {
+    right: 15px;
+  }
+}
 /* media end */
